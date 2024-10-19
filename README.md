@@ -5,7 +5,7 @@
 
 A simple AI chatbot that leverages the **Gemini API** to generate conversational responses and supports image uploads during the conversation. Built using **HTML**, **CSS**, and **JavaScript**, the chatbot offers a responsive design suitable for both desktop and mobile devices.
 
-### [Live Demo](https://your-live-url.com) 🔗
+### [Live Demo](https://chatbot-by-mohit.netlify.app/) 🔗
 
 [![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://chatbot-by-mohit.netlify.app/)
 
