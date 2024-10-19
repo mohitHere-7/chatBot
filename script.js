@@ -7,7 +7,7 @@ let imageInput = document.querySelector("#image input");
 let image = document.querySelector("#image img");
 
 const API_URL =
-  `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${YOUR_API_KEY}`;
+  `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyDpSXABP1C8s5GZHTdKslkJwHJq_zGs8Lo`;
 
 let user = {
   message: null,
@@ -166,7 +166,7 @@ imageInput.addEventListener("change", () => {
 
 });
 
-const YOUR_API_KEY = "AIzaSyDpSXABP1C8s5GZHTdKslkJwHJq_zGs8Lo";
+
 imageBtn.addEventListener("click", () => {
   imageBtn.querySelector("input").click();
 });
