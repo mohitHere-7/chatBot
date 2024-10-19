@@ -164,9 +164,9 @@ imageInput.addEventListener("change", () => {
     image.classList.add("choose")
   };
 
-const YOU_API_URL = "AIzaSyDpSXABP1C8s5GZHTdKslkJwHJq_zGs8Lo"
 });
 
+const YOU_API_kEY = "AIzaSyDpSXABP1C8s5GZHTdKslkJwHJq_zGs8Lo";
 imageBtn.addEventListener("click", () => {
   imageBtn.querySelector("input").click();
 });
