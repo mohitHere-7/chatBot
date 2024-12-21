@@ -72,4 +72,4 @@ Built by [Mohit](https://github.com/mohitHere-7).
 
 ### Notes:
 - Replace `YOUR_API_KEY` with your actual Gemini API key.
-- Update any relevant links like GitHub repository and demo (if hosted).
+- Update any relevant links like GitHub repository and demo (if hosted)
