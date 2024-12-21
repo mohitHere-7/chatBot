@@ -66,12 +66,6 @@ A simple AI chatbot that leverages the **Gemini API** to generate conversational
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code.
-
----
-
 Built by [Mohit](https://github.com/mohitHere-7).
 
 ---
